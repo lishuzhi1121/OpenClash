@@ -1,6 +1,11 @@
 # 直连补充列表(国内域名不解析时，防止走代理使用)
 
 # MyList
+
+# 域名匹配
+# 努努影院
+DOMAIN,nnyy.in
+
 # 域名后缀匹配
 DOMAIN-SUFFIX,whtjdasha.com
 DOMAIN-SUFFIX,chybinc.com
@@ -11,7 +16,7 @@ DOMAIN-SUFFIX,wan.family
 DOMAIN-SUFFIX,angeworld.top
 DOMAIN-SUFFIX,angeworld.cc
 DOMAIN-SUFFIX,jlip.cc
-DOMAIN-SUFFIX,nnyy.in
+
 DOMAIN-SUFFIX,tutu.pm
 
 
